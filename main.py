@@ -1,7 +1,7 @@
 import os
 import re
 from datetime import datetime
-
+ 
 FILE_PATH = "security.log"
 USERS_FILE = "users.txt"
 parsed_logs = []
